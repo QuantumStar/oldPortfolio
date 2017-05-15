@@ -44,3 +44,8 @@ a {
   text-decoration: none;
   text-shadow
  }
+
+
+ h2,h3,p,a {
+   background-color: rgba(32, 26, 103, 0.78);
+ }
