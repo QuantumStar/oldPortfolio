@@ -1,10 +1,7 @@
 body {
   background-color: gray;
-  background: url("../images/headerBackground.png") no-repeat center center fixed;
-         -webkit-background-size: cover;
-         -moz-background-size: cover;
-         -o-background-size: cover;
-         background-size: cover;
+  background: url("../images/headerBackground.png") no-repeat fixed;
+
 }
 
 #name {
