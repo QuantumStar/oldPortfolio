@@ -5,8 +5,10 @@ html {
   -o-background-size: cover;
   background-size: cover;
   margin-bottom: 0px;
+}
 
-
+body {
+  margin-bottom: 0px;
 }
 
 #name, #construction {
