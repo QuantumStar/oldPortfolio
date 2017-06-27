@@ -54,19 +54,20 @@ body {
 a {
   color:inherit;
   text-decoration: inherit;
-
-
+  box-shadow: 0px 3px 19px #8b7ef1;
+  line-height: 1.34em;
+  box-shadow: inset 2px 1px 20px 1px #8b7ef1;
  }
 
 
 #projectList a, #projectListHeader {
-  background-color: rgba(32, 26, 103, 0.78);
+  background-color: rgba(32, 26, 103, 0.48);
 
   }
 
 #projectList a:hover {
-  background-color:  rgba(53, 176, 37, 0.78);
-
+  background-color:  rgba(53, 106, 37, 0.8);
+  box-shadow: inset 0px 4px 25px coral;
   }
 
 #projectList a {
@@ -74,4 +75,5 @@ a {
   transition-duration: 0.3s;
   border-radius: 20px;
   padding: 2px 10px;
+
 }
