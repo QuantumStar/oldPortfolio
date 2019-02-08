@@ -1,9 +1,8 @@
 body {
   background: url('../images/56044_1_miscellaneous_digital_art.jpg' no-repeat center center fixed);
-         -webkit-background-size: cover;
-         -moz-background-size: cover;
-         -o-background-size: cover;
-         background-size: cover;
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+         background-position: center;
 }
 
 #name, #construction {
